@@ -17,9 +17,10 @@
 * [Polpiella](https://www.polpiella.dev/code-generation-using-swift-package-plugins/) - Code generation using Swift Package Plugins
 
 ## Frameworks with plugins
+*---* 
 
 * [Benchmark](https://github.com/ordo-one/package-benchmark) - Benchmark allows you to easily create sophisticated Swift performance benchmarks
-  * [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark/blob/5bc62b1b3ba8d4b03b93735e5a74e80b0aa5b4da/Package.swift#L52) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure
+  - [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark/blob/5bc62b1b3ba8d4b03b93735e5a74e80b0aa5b4da/Package.swift#L52) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure
 * [Prefire](https://github.com/BarredEwe/Prefire) - A library for easily generating automatic Playbook view and Tests using SwiftUI Preview.
   * [PrefireTestsPlugin](https://github.com/BarredEwe/Prefire/blob/0cb793810b9dfe42cf07e79e3b8559e476105e80/Package.swift#L36) - Generation Snapshot and Accesability tests
   * [PrefirePlaybookPlugin](https://github.com/BarredEwe/Prefire/blob/0cb793810b9dfe42cf07e79e3b8559e476105e80/Package.swift#L29) - Generation Playbook view
