@@ -1,4 +1,4 @@
-# awesome-swift-plugins
+![Swift Plugins](https://i.postimg.cc/zX00Tfsn/Frame-2455.jpg)
 
 - [Guides](#guides)
 - [Frameworks with plugins](#frameworks-with-plugins)
