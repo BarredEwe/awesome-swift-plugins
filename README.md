@@ -12,6 +12,10 @@
 * [**Lighter**](https://github.com/Lighter-swift/Lighter) - A set of technologies applying code generation to access SQLite3 databases from Swift.
   * [Enlighter](https://github.com/Lighter-swift/Lighter) - A SwiftPM build plugin that searches for SQLite databases and .sql files within the selected targets, and then generates Swift sources to use those databases.
   * [Generate Code for SQLite](https://github.com/Lighter-swift/Lighter) - Generate Swift code for SQLite DBs into the Sources directory.
+* [**LiveViewNative**](https://github.com/liveview-native/liveview-client-swiftui) - The LiveViewNative Swift package lets you use Phoenix LiveView to build native iOS apps with SwiftUI.
+  * [BuiltinRegistryGeneratorPlugin](https://github.com/liveview-native/liveview-client-swiftui) - Builtin registry generator Plugin.
+  * [DocumentationExtensionGeneratorPlugin](https://github.com/liveview-native/liveview-client-swiftui) - This command generates documentation extension markdown files.
+  * [SortDocumentationJSONPlugin](https://github.com/liveview-native/liveview-client-swiftui) - This command sorts the JSON files in the docs repo folder.
 * [**Orion**](https://github.com/theos/orion) - A DSL for elegant tweak development in Swift.
   * [OrionPlugin](https://github.com/theos/orion) - A plugin for running Orion Preprocessor.
 * [**Prefire**](https://github.com/BarredEwe/Prefire) - A library for easily generating automatic Playbook view and Tests using SwiftUI Preview.
