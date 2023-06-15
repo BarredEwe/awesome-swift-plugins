@@ -29,6 +29,8 @@
   * [RswiftGenerateResources](https://github.com/mac-cain13/R.swift#packageswift-based-spm-project) - A plugin for generation strong typed autocompleted resources.
 * [**SecretsManager**](https://github.com/vdka/SecretsManager) - Effortless Secrets Management for Swift projects using Code Generation.
   * [SecretsManagerPlugin](https://github.com/vdka/SecretsManager) - Using this plugin the following Swift code is generated and available directly to your targets source code.
+* [**SmokeFrameworkApplicationGenerate**](https://github.com/amzn/smoke-framework-application-generate) - Code generator to generate SmokeFramework-based applications from service models.
+  * [SmokeFrameworkGenerateClient](https://github.com/amzn/smoke-framework-application-generate) - The SPM plugin with a model defined in a seperate package by declaring that package as a dependency of the targets using the generator.
 * [**Sourcery**](https://github.com/krzysztofzablocki/Sourcery) - A code generator for Swift language, built on top of Apple's own SwiftSyntax.
   * [SourceryCommandPlugin](https://github.com/krzysztofzablocki/Sourcery) - Trigger Sourcery using swift plugin.
 * [**swift-argument-parser**](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
