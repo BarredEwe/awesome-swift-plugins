@@ -1,20 +1,7 @@
 ![Swift Plugins](https://i.postimg.cc/zX00Tfsn/Frame-2455.jpg)
 
-- [Guides](#guides)
 - [Frameworks with plugins](#frameworks-with-plugins)
-
-## Guides
-
-### Official Guides
-
-* [Gitgub: Swift Package Manager](https://github.com/apple/swift-package-manager/blob/main/Documentation/Plugins.md#getting-started-with-plugins) - This guide provides a brief overview of Swift Package Manager plugins, describes how a package can make use of plugins, and shows how to get started writing your own plugins.
-* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110359) - Meet Swift Package plugins. Discover how you can perform actions on Swift packages and Xcode projects with Swift package plugins.
-* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110401) - Create Swift Package plugins. Tailor your development workflow and learn how to write your own package plugins in Swift. 
-
-### Third party Guides
-* [WWDC Notes](https://www.wwdcnotes.com/notes/wwdc22/110359/) - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
-* [The.Swift.Dev.](https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/) - Learn how to create command plugins for the Swift Package Manager to execute custom actions using SPM and other tools.
-* [Polpiella](https://www.polpiella.dev/code-generation-using-swift-package-plugins/) - Code generation using Swift Package Plugins
+- [Guides](#guides)
 
 ## Frameworks with plugins
 
@@ -31,3 +18,16 @@
   * [SwiftLintPlugin](https://github.com/realm/SwiftLint#plug-in-support) - SwiftLint can be used as a build tool plug-in for both Xcode projects as well as Swift packages.
 * [SecretsManager](https://github.com/vdka/SecretsManager) - Effortless Secrets Management for Swift projects using Code Generation.
   * [SecretsManagerPlugin](https://github.com/vdka/SecretsManager) - Using this plugin the following Swift code is generated and available directly to your targets source code.
+
+## Guides
+
+### Official Guides
+
+* [Gitgub: Swift Package Manager](https://github.com/apple/swift-package-manager/blob/main/Documentation/Plugins.md#getting-started-with-plugins) - This guide provides a brief overview of Swift Package Manager plugins, describes how a package can make use of plugins, and shows how to get started writing your own plugins.
+* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110359) - Meet Swift Package plugins. Discover how you can perform actions on Swift packages and Xcode projects with Swift package plugins.
+* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110401) - Create Swift Package plugins. Tailor your development workflow and learn how to write your own package plugins in Swift. 
+
+### Third party Guides
+* [WWDC Notes](https://www.wwdcnotes.com/notes/wwdc22/110359/) - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
+* [The.Swift.Dev.](https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/) - Learn how to create command plugins for the Swift Package Manager to execute custom actions using SPM and other tools.
+* [Polpiella](https://www.polpiella.dev/code-generation-using-swift-package-plugins/) - Code generation using Swift Package Plugins
