@@ -5,10 +5,14 @@
 
 ## Frameworks with plugins
 
+* [**Apollo iOS**](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client, written in Swift
+  * [InstallCLI](https://github.com/apollographql/apollo-ios) - Installs the Apollo iOS Command line interface. 
 * [**Benchmark**](https://github.com/ordo-one/package-benchmark) - Benchmark allows you to easily create sophisticated Swift performance benchmarks.
   * [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure.
 * [**CodegenKit**](https://github.com/omochi/CodegenKit) - This is a framework for introducing code generation on your Swift project.
   * [CodegenKitPlugin](https://github.com/omochi/CodegenKit) - After writing renderers, generate codes. Perform code generation with plugin.
+* [**DiscordBM**](https://github.com/DiscordBM/DiscordBM) - A New Multiplatform Swift Discord Library, Primarily For Making Bots.
+  * [GenerateAPIEndpoints](https://github.com/DiscordBM/DiscordBM) - Add Generated Endpoints.
 * [**Lighter**](https://github.com/Lighter-swift/Lighter) - A set of technologies applying code generation to access SQLite3 databases from Swift.
   * [Enlighter](https://github.com/Lighter-swift/Lighter) - A SwiftPM build plugin that searches for SQLite databases and .sql files within the selected targets, and then generates Swift sources to use those databases.
   * [Generate Code for SQLite](https://github.com/Lighter-swift/Lighter) - Generate Swift code for SQLite DBs into the Sources directory.
@@ -28,7 +32,9 @@
 * [**Sourcery**](https://github.com/krzysztofzablocki/Sourcery) - A code generator for Swift language, built on top of Apple's own SwiftSyntax.
   * [SourceryCommandPlugin](https://github.com/krzysztofzablocki/Sourcery) - Trigger Sourcery using swift plugin.
 * [**swift-argument-parser**](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
-  * [GenerateManual](https://github.com/apple/swift-argument-parser) - Generate a manual entry for a specified target. 
+  * [GenerateManual](https://github.com/apple/swift-argument-parser) - Generate a manual entry for a specified target.
+* [**Swift OpenAPI Generator**](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
+  * [OpenAPIGenerator](https://github.com/apple/swift-openapi-generator) - Swift OpenAPI Generator package plugin.
 * [**SwiftFormat**](https://github.com/nicklockwood/SwiftFormat) - SwiftFormat is a code library and command-line tool for reformatting Swift code.
   *  [SwiftFormatPlugin](https://github.com/nicklockwood/SwiftFormat#swift-package-manager-plugin) - Trigger SwiftFormat using swift plugin.
 * [**SwiftLint**](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
