@@ -11,6 +11,9 @@ Description TODO
   * [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure.
 * [**CodegenKit**](https://github.com/omochi/CodegenKit) - This is a framework for introducing code generation on your Swift project.
   * [CodegenKitPlugin](https://github.com/omochi/CodegenKit) - After writing renderers, generate codes. Perform code generation with plugin.
+* [**Lighter**](https://github.com/Lighter-swift/Lighter) - A set of technologies applying code generation to access SQLite3 databases from Swift.
+  * [Enlighter](https://github.com/Lighter-swift/Lighter) - A SwiftPM build plugin that searches for SQLite databases and .sql files within the selected targets, and then generates Swift sources to use those databases.
+  * [Generate Code for SQLite](https://github.com/Lighter-swift/Lighter) - Generate Swift code for SQLite DBs into the Sources directory.
 * [**Orion**](https://github.com/theos/orion) - A DSL for elegant tweak development in Swift.
   * [OrionPlugin](https://github.com/theos/orion) - A plugin for running Orion Preprocessor.
 * [**Prefire**](https://github.com/BarredEwe/Prefire) - A library for easily generating automatic Playbook view and Tests using SwiftUI Preview.
