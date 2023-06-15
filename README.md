@@ -1,10 +1,9 @@
 # awesome-swift-plugins
 
 - [Guides](#guides)
-- [Frameworks](#frameworks)
+- [Frameworks with plugins](#frameworks-with-plugins)
 
 ## Guides
-*An awesome list of Swift related guides.* 
 
 ### Official Guides
 
@@ -17,14 +16,15 @@
 * [Polpiella](https://www.polpiella.dev/code-generation-using-swift-package-plugins/) - Code generation using Swift Package Plugins
 
 ## Frameworks with plugins
-*---* 
 
 * [Benchmark](https://github.com/ordo-one/package-benchmark) - Benchmark allows you to easily create sophisticated Swift performance benchmarks
-  - [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark/blob/5bc62b1b3ba8d4b03b93735e5a74e80b0aa5b4da/Package.swift#L52) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure
+  * [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure
 * [Prefire](https://github.com/BarredEwe/Prefire) - A library for easily generating automatic Playbook view and Tests using SwiftUI Preview.
-  * [PrefireTestsPlugin](https://github.com/BarredEwe/Prefire/blob/0cb793810b9dfe42cf07e79e3b8559e476105e80/Package.swift#L36) - Generation Snapshot and Accesability tests
-  * [PrefirePlaybookPlugin](https://github.com/BarredEwe/Prefire/blob/0cb793810b9dfe42cf07e79e3b8559e476105e80/Package.swift#L29) - Generation Playbook view
+  * [PrefireTestsPlugin](https://github.com/BarredEwe/Prefire#swift-package-plugin) - Generation Snapshot and Accesability tests
+  * [PrefirePlaybookPlugin](https://github.com/BarredEwe/Prefire#swift-package-plugin) - Generation Playbook view
 * [R.swift](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects
-  * [RswiftGenerateResources](https://github.com/mac-cain13/R.swift/blob/5721c1a948429232718fcbea3eb6132675192a72/Package.swift#L15) - A plugin for generation strong typed autocompleted resources
+  * [RswiftGenerateResources](https://github.com/mac-cain13/R.swift#packageswift-based-spm-project) - A plugin for generation strong typed autocompleted resources
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - SwiftFormat is a code library and command-line tool for reformatting Swift code on macOS or Linux.
+  *  [SwiftFormatPlugin](https://github.com/nicklockwood/SwiftFormat#swift-package-manager-plugin) - Trigger SwiftFormat using swift plugin
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
-  * [SwiftLintPlugin](https://github.com/realm/SwiftLint/blob/c8cd311615ad3c1772fd0795e865c5f0ae069578/Package.swift#L23) - SwiftLint can be used as a build tool plug-in for both Xcode projects as well as Swift packages.
+  * [SwiftLintPlugin](https://github.com/realm/SwiftLint#plug-in-support) - SwiftLint can be used as a build tool plug-in for both Xcode projects as well as Swift packages.
