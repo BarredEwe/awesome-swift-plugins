@@ -7,8 +7,9 @@
 
 ### Official Guides
 
-* [Swift Package Manager: Plugins](https://github.com/apple/swift-package-manager/blob/main/Documentation/Plugins.md#getting-started-with-plugins) - This guide provides a brief overview of Swift Package Manager plugins, describes how a package can make use of plugins, and shows how to get started writing your own plugins.
-* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110359) - Discover how you can perform actions on Swift packages and Xcode projects with Swift package plugins.
+* [Gitgub: Swift Package Manager](https://github.com/apple/swift-package-manager/blob/main/Documentation/Plugins.md#getting-started-with-plugins) - This guide provides a brief overview of Swift Package Manager plugins, describes how a package can make use of plugins, and shows how to get started writing your own plugins.
+* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110359) - Meet Swift Package plugins. Discover how you can perform actions on Swift packages and Xcode projects with Swift package plugins.
+* [WWDC](https://developer.apple.com/videos/play/wwdc2022/110401) - Create Swift Package plugins. Tailor your development workflow and learn how to write your own package plugins in Swift. 
 
 ### Third party Guides
 * [WWDC Notes](https://www.wwdcnotes.com/notes/wwdc22/110359/) - WWDC Notes is an open-source and community-driven effort to collect notes for all Apple's WWDC videos.
