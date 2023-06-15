@@ -1,7 +1,5 @@
 ![Swift Plugins](https://i.postimg.cc/zX00Tfsn/Frame-2455.jpg)
 
-Description TODO
-
 - [Frameworks with plugins](#frameworks-with-plugins)
 - [Guides](#guides)
 
@@ -45,4 +43,4 @@ Description TODO
 
 ## Contributing
 
-TODO
+Contributions are most welcome!
