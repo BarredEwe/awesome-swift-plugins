@@ -5,43 +5,59 @@
 
 ## Frameworks with plugins
 
-* [**Apollo iOS**](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client, written in Swift
-  * [InstallCLI](https://github.com/apollographql/apollo-ios) - Installs the Apollo iOS Command line interface. 
-* [**Benchmark**](https://github.com/ordo-one/package-benchmark) - Benchmark allows you to easily create sophisticated Swift performance benchmarks.
+&#x25CF; [**Apollo iOS**](https://github.com/apollographql/apollo-ios) - A strongly-typed, caching GraphQL client, written in Swift
+  * [InstallCLI](https://github.com/apollographql/apollo-ios) - Installs the Apollo iOS Command line interface.
+
+&#x25CF; [**Benchmark**](https://github.com/ordo-one/package-benchmark) - Benchmark allows you to easily create sophisticated Swift performance benchmarks.
   * [BenchmarkPlugin](https://github.com/ordo-one/package-benchmark) - Plugin that generates the boilerplate needed to interface with the Benchmark infrastructure.
-* [**CodegenKit**](https://github.com/omochi/CodegenKit) - This is a framework for introducing code generation on your Swift project.
+
+&#x25CF; [**CodegenKit**](https://github.com/omochi/CodegenKit) - This is a framework for introducing code generation on your Swift project.
   * [CodegenKitPlugin](https://github.com/omochi/CodegenKit) - After writing renderers, generate codes. Perform code generation with plugin.
-* [**DiscordBM**](https://github.com/DiscordBM/DiscordBM) - A New Multiplatform Swift Discord Library, Primarily For Making Bots.
+
+&#x25CF; [**DiscordBM**](https://github.com/DiscordBM/DiscordBM) - A New Multiplatform Swift Discord Library, Primarily For Making Bots.
   * [GenerateAPIEndpoints](https://github.com/DiscordBM/DiscordBM) - Add Generated Endpoints.
-* [**LicensePlist**](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
+
+&#x25CF; [**LicensePlist**](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
   * [LicensePlistBuildTool](https://github.com/mono0926/LicensePlist) - Plugin, which automatically generates a Plist of all your dependencies.
-* [**Lighter**](https://github.com/Lighter-swift/Lighter) - A set of technologies applying code generation to access SQLite3 databases from Swift.
+
+&#x25CF; [**Lighter**](https://github.com/Lighter-swift/Lighter) - A set of technologies applying code generation to access SQLite3 databases from Swift.
   * [Enlighter](https://github.com/Lighter-swift/Lighter) - A SwiftPM build plugin that searches for SQLite databases and .sql files within the selected targets, and then generates Swift sources to use those databases.
   * [Generate Code for SQLite](https://github.com/Lighter-swift/Lighter) - Generate Swift code for SQLite DBs into the Sources directory.
-* [**LiveViewNative**](https://github.com/liveview-native/liveview-client-swiftui) - The LiveViewNative Swift package lets you use Phoenix LiveView to build native iOS apps with SwiftUI.
+
+&#x25CF; [**LiveViewNative**](https://github.com/liveview-native/liveview-client-swiftui) - The LiveViewNative Swift package lets you use Phoenix LiveView to build native iOS apps with SwiftUI.
   * [BuiltinRegistryGeneratorPlugin](https://github.com/liveview-native/liveview-client-swiftui) - Builtin registry generator Plugin.
   * [DocumentationExtensionGeneratorPlugin](https://github.com/liveview-native/liveview-client-swiftui) - This command generates documentation extension markdown files.
   * [SortDocumentationJSONPlugin](https://github.com/liveview-native/liveview-client-swiftui) - This command sorts the JSON files in the docs repo folder.
-* [**Orion**](https://github.com/theos/orion) - A DSL for elegant tweak development in Swift.
+
+&#x25CF; [**Orion**](https://github.com/theos/orion) - A DSL for elegant tweak development in Swift.
   * [OrionPlugin](https://github.com/theos/orion) - A plugin for running Orion Preprocessor.
-* [**Prefire**](https://github.com/BarredEwe/Prefire) - A library for easily generating automatic Playbook view and Tests using SwiftUI Preview.
+
+&#x25CF; [**Prefire**](https://github.com/BarredEwe/Prefire) - A library for easily generating automatic Playbook view and Tests using SwiftUI Preview.
   * [PrefireTestsPlugin](https://github.com/BarredEwe/Prefire#swift-package-plugin) - Generation Snapshot and Accesability tests.
   * [PrefirePlaybookPlugin](https://github.com/BarredEwe/Prefire#swift-package-plugin) - Generation Playbook view.
-* [**R.swift**](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
+
+&#x25CF; [**R.swift**](https://github.com/mac-cain13/R.swift) - Get strong typed, autocompleted resources like images, fonts and segues in Swift projects.
   * [RswiftGenerateResources](https://github.com/mac-cain13/R.swift#packageswift-based-spm-project) - A plugin for generation strong typed autocompleted resources.
-* [**SecretsManager**](https://github.com/vdka/SecretsManager) - Effortless Secrets Management for Swift projects using Code Generation.
+
+&#x25CF; [**SecretsManager**](https://github.com/vdka/SecretsManager) - Effortless Secrets Management for Swift projects using Code Generation.
   * [SecretsManagerPlugin](https://github.com/vdka/SecretsManager) - Using this plugin the following Swift code is generated and available directly to your targets source code.
-* [**SmokeFrameworkApplicationGenerate**](https://github.com/amzn/smoke-framework-application-generate) - Code generator to generate SmokeFramework-based applications from service models.
+
+&#x25CF; [**SmokeFrameworkApplicationGenerate**](https://github.com/amzn/smoke-framework-application-generate) - Code generator to generate SmokeFramework-based applications from service models.
   * [SmokeFrameworkGenerateClient](https://github.com/amzn/smoke-framework-application-generate) - The SPM plugin with a model defined in a seperate package by declaring that package as a dependency of the targets using the generator.
-* [**Sourcery**](https://github.com/krzysztofzablocki/Sourcery) - A code generator for Swift language, built on top of Apple's own SwiftSyntax.
+
+&#x25CF; [**Sourcery**](https://github.com/krzysztofzablocki/Sourcery) - A code generator for Swift language, built on top of Apple's own SwiftSyntax.
   * [SourceryCommandPlugin](https://github.com/krzysztofzablocki/Sourcery) - Trigger Sourcery using swift plugin.
-* [**swift-argument-parser**](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+
+&#x25CF; [**swift-argument-parser**](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
   * [GenerateManual](https://github.com/apple/swift-argument-parser) - Generate a manual entry for a specified target.
-* [**Swift OpenAPI Generator**](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
+
+ &#x25CF; [**Swift OpenAPI Generator**](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
   * [OpenAPIGenerator](https://github.com/apple/swift-openapi-generator) - Swift OpenAPI Generator package plugin.
-* [**SwiftFormat**](https://github.com/nicklockwood/SwiftFormat) - SwiftFormat is a code library and command-line tool for reformatting Swift code.
+
+&#x25CF; [**SwiftFormat**](https://github.com/nicklockwood/SwiftFormat) - SwiftFormat is a code library and command-line tool for reformatting Swift code.
   *  [SwiftFormatPlugin](https://github.com/nicklockwood/SwiftFormat#swift-package-manager-plugin) - Trigger SwiftFormat using swift plugin.
-* [**SwiftLint**](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
+
+&#x25CF; [**SwiftLint**](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
   * [SwiftLintPlugin](https://github.com/realm/SwiftLint#plug-in-support) - SwiftLint can be used as a build tool plug-in for both Xcode projects as well as Swift packages.
 
 ## Guides
