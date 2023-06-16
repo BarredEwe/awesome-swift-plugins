@@ -13,6 +13,8 @@
   * [CodegenKitPlugin](https://github.com/omochi/CodegenKit) - After writing renderers, generate codes. Perform code generation with plugin.
 * [**DiscordBM**](https://github.com/DiscordBM/DiscordBM) - A New Multiplatform Swift Discord Library, Primarily For Making Bots.
   * [GenerateAPIEndpoints](https://github.com/DiscordBM/DiscordBM) - Add Generated Endpoints.
+* [**LicensePlist**](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
+  * [LicensePlistBuildTool](https://github.com/mono0926/LicensePlist) - Plugin, which automatically generates a Plist of all your dependencies.
 * [**Lighter**](https://github.com/Lighter-swift/Lighter) - A set of technologies applying code generation to access SQLite3 databases from Swift.
   * [Enlighter](https://github.com/Lighter-swift/Lighter) - A SwiftPM build plugin that searches for SQLite databases and .sql files within the selected targets, and then generates Swift sources to use those databases.
   * [Generate Code for SQLite](https://github.com/Lighter-swift/Lighter) - Generate Swift code for SQLite DBs into the Sources directory.
