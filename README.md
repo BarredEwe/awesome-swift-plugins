@@ -57,6 +57,9 @@
 &#x25CF; [**SwiftFormat**](https://github.com/nicklockwood/SwiftFormat) - SwiftFormat is a code library and command-line tool for reformatting Swift code.
   *  [SwiftFormatPlugin](https://github.com/nicklockwood/SwiftFormat#swift-package-manager-plugin) - Trigger SwiftFormat using swift plugin.
 
+&#x25CF; [**SwiftGen**](https://github.com/SwiftGen/SwiftGen) - А tool to automatically generate Swift code for resources of your projects, to make them type-safe to use.
+  * [**SwiftGenPlugin**](https://github.com/SwiftGen/SwiftGenPlugin) - A prebuild tool will execute it and generate your files before each build
+
 &#x25CF; [**SwiftLint**](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
   * [SwiftLintPlugin](https://github.com/realm/SwiftLint#plug-in-support) - SwiftLint can be used as a build tool plug-in for both Xcode projects as well as Swift packages.
 
